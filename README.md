@@ -1,67 +1,102 @@
-# Kirubel Lemma 👋
-DevOps & System Engineer • Addis Ababa, Ethiopia  
-[![GitHub followers](https://img.shields.io/github/followers/Kirubel-Lemma?label=Follow&style=social)](https://github.com/Kirubel-Lemma) [![Top Langs](https://img.shields.io/badge/top--langs-Python%2C%20JavaScript-orange?style=flat-square)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-kirubel--lemma-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kirubel-lemma) [![Email](https://img.shields.io/badge/email-kirubellemma13%40gmail.com-red?style=flat-square)](mailto:kirubellemma13@gmail.com)
+# 👋 Hi, I'm Kirubel Lemma
+
+DevOps Engineer | Cloud & Automation Specialist | Linux Enthusiast  
+
+🌍 Addis Ababa, Ethiopia  
+📧 kirubellemma13@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/kirubel-lemma) | [GitHub](https://github.com/Kirubel-Lemma)
 
 ---
 
-🚀 DevOps engineer focused on resilient infrastructure, automated delivery, and observable systems. I design and operate production-grade platforms (Kubernetes, Docker, CI/CD, monitoring) and lead cloud migrations with a security-first mindset.
+## 🚀 About Me
 
-Quick snapshot:
-- 3+ years building cloud-native services, CI/CD pipelines, and monitoring stacks  
-- Strong in: Kubernetes, Docker, GitHub Actions/Jenkins, Terraform, ELK / Signoz, PostgreSQL, Redis  
-- Education: B.Sc. Computer Science — Admas University (GPA: 3.94)
+DevOps Engineer with **3+ years of experience** building, automating, and securing scalable infrastructure.  
+I specialize in **Linux administration, CI/CD automation, Kubernetes orchestration, cloud migrations, and observability**, committed to delivering secure, reliable systems with optimized performance.
 
 ---
 
-## Tech & Tools
-- Languages: Python, Java, JavaScript, Shell, YAML  
-- Container & Orchestration: Docker, Kubernetes, Helm  
-- CI/CD & Automation: GitHub Actions, Jenkins, Ansible, Terraform  
-- Observability: ELK (Elasticsearch/Logstash/Kibana), Signoz, Prometheus, Grafana, CloudWatch  
-- Databases & Cache: PostgreSQL, MySQL, Redis, Apache Doris  
-- Networking & Security: OPNsense, Traefik, HAProxy, VLANs, SIP/VoIP basics  
-- Web / App servers: Nginx, Apache, Caddy, Node.js, Odoo (Dockerized)
+## 🧰 Tech Stack
+
+### 💻 DevOps & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=flat&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+
+### ☁️ Cloud & Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Tele Cloud](https://img.shields.io/badge/Tele%20Cloud-00ADEF?style=flat)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana)
+![ELK](https://img.shields.io/badge/ELK%20Stack-FC6A03?style=flat)
+
+### 🐧 Linux & Networking
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)
+![OPNsense](https://img.shields.io/badge/OPNsense-000?style=flat)
+![UniFi](https://img.shields.io/badge/UniFi-27AFFA?style=flat)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 
 ---
 
-## Professional experience (summary)
-System Engineer — Kispay Financial Solution S.C (Oct 2024 – Present)  
-- Designed & operated Kubernetes clusters and Docker-based services. Led Tele Cloud→AWS migrations and implemented ELK/Signoz for observability. Built GitHub Actions + Jenkins CI/CD pipelines, managed PostgreSQL/MySQL, Redis, and Mailcow.
+## 💼 Experience Highlights
 
-Network & System Administrator — Hagbes PLC (Dec 2023 – Sep 2024)  
-- Architected CI/CD, deployed Kubernetes with Traefik, implemented Zabbix/Prometheus/Grafana monitoring, secured datacenter networks using OPNsense.
+### 🔹 System Engineer — **Kispay Financial Solution S.C**  
+📍 *Oct 2024 – Present*
 
-Junior System Engineer — Atlas Computer Technology (Jun 2022 – Dec 2023)  
-- Containerized applications (Docker/K8s), integrated ELK for logging and alerting, maintained Linux infrastructure with high availability.
+- Built automated CI/CD pipelines with GitHub Actions & Jenkins
+- Managed Kubernetes and Docker deployments
+- Secured infrastructure with OPNsense
+- Implemented ELK & SigNoz observability
+- Deployed databases & optimized web stacks (Nginx, HAProxy)
 
-Network & VoIP Service Installation (2023–2024)  
-- Network design (LAN/WAN/VLAN), VoIP systems (SIP trunks, Asterisk/FreePBX), router/switch/firewall configuration.
+### 🔹 Network & System Administrator — **Hagbes PLC**  
+📍 *Dec 2023 – Sep 2024*
 
----
+- Designed and managed DevOps environments
+- Built scalable CI/CD pipelines & Traefik ingress
+- Managed databases & corporate email systems
+- Implemented monitoring (Zabbix, Prometheus, Grafana)
 
-## Education & Certifications
-- B.Sc. Computer Science — Admas University, Addis Ababa (2023) — GPA: 3.94  
-- Programming Fundamentals (Udacity) · Android Developer Fundamentals (Udacity) · Next‑Gen Network Security (IT Masters) · Cyber Threat Management (Cisco Networking Academy) · Endpoint Security (Cisco Networking Academy)
+### 🔹 Junior System Engineer — **Atlas Computer Technology**  
+📍 *Jun 2022 – Dec 2023*
 
----
-
-## Languages
-- Amharic — Native  
-- English — Proficient
-
----
-
-## Contact
-- Email: kirubellemma13@gmail.com  
-- Location: Addis Ababa, Ethiopia  
+- Containerized applications (Docker & Kubernetes)
+- Managed monitoring and firewall systems
+- Maintained Linux uptime (99.9%)
 
 ---
 
-## Improve this README for me
-I can:
-- Add live project cards (stars, languages, CI/build status) if you share repo URLs  
-- Insert GitHub stats widgets and language charts  
-- Create an alternate version with a more minimal or playful tone  
-- Hide or obfuscate personal contact info
+## 📂 Featured Projects
 
-Thanks for visiting — let’s build reliable, observable systems together. 🔧📈🚀
+✔️ **AWS Migration Project** – Migrated on-prem VMs to AWS with secure networking and CloudWatch monitoring  
+✔️ **CI/CD Automation** – Built multi-stage pipelines for automated testing and deployments  
+✔️ **Observability Stack** – Centralized logging and metrics with ELK, Prometheus, and Grafana  
+✔️ **Odoo Deployment** – Full Dockerized Odoo ERP server deployment and management
+
+*You can link repos here once added.*
+
+---
+
+## 📊 GitHub Stats
+
+![Kirubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirubel-Lemma&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+📧 kirubellemma13@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/kirubel-lemma  
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
