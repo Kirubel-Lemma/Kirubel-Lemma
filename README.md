@@ -24,15 +24,6 @@ Quick snapshot:
 
 ---
 
-## Selected projects (highlights)
-(Provide repo links and I’ll convert these into live project cards.)
-
-- Tele Cloud → AWS migration — led lift-and-shift migration; provisioned EC2, VPC, IAM; implemented CloudWatch observability and cost optimizations.  
-- Odoo ERP Dockerization — containerized Odoo and Mailcow for reliable deployments and easier maintenance.  
-- CI/CD & GitOps platform — automated builds and deployments, adopted GitOps patterns to speed releases and improve rollback safety.
-
----
-
 ## Professional experience (summary)
 System Engineer — Kispay Financial Solution S.C (Oct 2024 – Present)  
 - Designed & operated Kubernetes clusters and Docker-based services. Led Tele Cloud→AWS migrations and implemented ELK/Signoz for observability. Built GitHub Actions + Jenkins CI/CD pipelines, managed PostgreSQL/MySQL, Redis, and Mailcow.
@@ -63,7 +54,6 @@ Network & VoIP Service Installation (2023–2024)
 ## Contact
 - Email: kirubellemma13@gmail.com  
 - Location: Addis Ababa, Ethiopia  
-- Phone: (+251) 989 470 777  (Optional: I can obfuscate or remove this for privacy)
 
 ---
 
