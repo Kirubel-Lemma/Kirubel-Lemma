@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kirubel Lemma
 
-DevOps Engineer | Cloud & Automation Specialist | Linux Enthusiast  
+Infrastructure Engineer | DevOps Engineer | Web-Hosting Engineer | Network-System Operations
 
 🌍 Addis Ababa, Ethiopia  
 📧 kirubellemma13@gmail.com  
